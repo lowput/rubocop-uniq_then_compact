@@ -1,0 +1,7 @@
+plugins:
+  - rubocop-internal_affairs
+  - rubocop-uniq_then_compact
+
+Naming/FileName:
+  Exclude:
+    - lib/rubocop-uniq_then_compact.rb

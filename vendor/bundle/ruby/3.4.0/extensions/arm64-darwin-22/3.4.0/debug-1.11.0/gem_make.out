@@ -1,0 +1,19 @@
+current directory: /Users/masahiro.ueda/develop/rubocop-uniq_then_compact/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+/Users/masahiro.ueda/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/masahiro.ueda/develop/rubocop-uniq_then_compact/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250703-86642-vsot6s sitelibdir\=./.gem.20250703-86642-vsot6s clean
+
+current directory: /Users/masahiro.ueda/develop/rubocop-uniq_then_compact/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250703-86642-vsot6s sitelibdir\=./.gem.20250703-86642-vsot6s
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/masahiro.ueda/develop/rubocop-uniq_then_compact/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250703-86642-vsot6s sitelibdir\=./.gem.20250703-86642-vsot6s install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20250703-86642-vsot6s/debug
+
+current directory: /Users/masahiro.ueda/develop/rubocop-uniq_then_compact/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250703-86642-vsot6s sitelibdir\=./.gem.20250703-86642-vsot6s clean
