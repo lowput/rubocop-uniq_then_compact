@@ -1,1 +1,8 @@
-# Write it!
+---
+require:
+  - rubocop/cop/uniq_then_compact_cops
+
+Classi/NewMyCop:
+  Description: 'Detect usage of current_user method'
+  Enabled: true
+  VersionAdded: '1.0'
