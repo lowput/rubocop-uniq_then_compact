@@ -10,8 +10,8 @@ module RuboCop
         LintRoller::About.new(
           name: 'rubocop-uniq_then_compact',
           version: VERSION,
-          homepage: "TODO: Put your plugin's homepage URL here.",
-          description: "TODO: Put your plugin's description here."
+          homepage: 'https://github.com/lowput/rubocop-uniq_then_compact',
+          description: 'A RuboCop plugin for detecting uniq.compact patterns and similar code improvements.'
         )
       end
 
